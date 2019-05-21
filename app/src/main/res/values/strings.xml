@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">P05-Quiz</string>
+    <string name="ticket_type">Ticket Type:</string>
+    <string name="one_way">One Way</string>
+    <string name="round_trip">Round Trip</string>
+    <string name="number_of_pax">Number of Pax:</string>
+    <string name="submit">SUBMIT</string>
 </resources>
